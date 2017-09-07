@@ -1,0 +1,233 @@
+[10-Nov-2016 01:40:31 UTC] PHP Fatal error:  Class 'CT_Base_Controller' not found in /home/u9562915/public_html/cmh/application/controllers/Control_panel.php on line 4
+[10-Nov-2016 01:40:39 UTC] PHP Fatal error:  Class 'CT_Base_Controller' not found in /home/u9562915/public_html/cmh/application/controllers/Control_panel.php on line 4
+[24-Nov-2016 07:19:53 UTC] PHP Parse error:  syntax error, unexpected '{' in /home/u9562915/public_html/cmh/application/views/layout_admin_navbar.php on line 50
+[24-Nov-2016 07:20:09 UTC] PHP Parse error:  syntax error, unexpected '{' in /home/u9562915/public_html/cmh/application/views/layout_admin_navbar.php on line 50
+[24-Nov-2016 07:20:16 UTC] PHP Parse error:  syntax error, unexpected '{' in /home/u9562915/public_html/cmh/application/views/layout_admin_navbar.php on line 50
+[24-Nov-2016 07:20:32 UTC] PHP Parse error:  syntax error, unexpected '{' in /home/u9562915/public_html/cmh/application/views/layout_admin_navbar.php on line 50
+[09-Dec-2016 08:00:17 UTC] PHP Fatal error:  Call to undefined method M_Trans_kas::getAllJenis() in /home/u9562915/public_html/cmh/application/controllers/Trans_kas.php on line 12
+[29-Dec-2016 11:12:27 Asia/Jakarta] PHP Fatal error:  Call to undefined method M_Approval1_penerimaan::getJenisPengeluaran() in /home/u9562915/public_html/cmh/application/views/approval1_penerimaan.php on line 50
+[20-Feb-2017 11:53:56 Asia/Jakarta] PHP Fatal error:  Call to a member function real_escape_string() on a non-object in /home/u9562915/public_html/cmh/system/database/drivers/mysqli/mysqli_driver.php on line 391
+[20-Feb-2017 11:54:03 Asia/Jakarta] PHP Fatal error:  Call to a member function real_escape_string() on a non-object in /home/u9562915/public_html/cmh/system/database/drivers/mysqli/mysqli_driver.php on line 391
+[20-Feb-2017 12:05:09 Asia/Jakarta] PHP Fatal error:  Call to a member function result() on a non-object in /home/u9562915/public_html/cmh/application/models/M_Master_jenispengeluaran.php on line 15
+[20-Feb-2017 12:06:40 Asia/Jakarta] PHP Fatal error:  Call to a member function result() on a non-object in /home/u9562915/public_html/cmh/application/models/M_Master_nilaidetilpengeluaran.php on line 30
+[20-Feb-2017 12:13:08 Asia/Jakarta] PHP Fatal error:  Call to a member function result() on a non-object in /home/u9562915/public_html/cmh/application/models/M_Master_jenispengeluaran.php on line 15
+[20-Feb-2017 12:13:11 Asia/Jakarta] PHP Fatal error:  Call to a member function result() on a non-object in /home/u9562915/public_html/cmh/application/models/M_Master_jenispengeluaran.php on line 15
+[20-Feb-2017 13:12:57 Asia/Jakarta] PHP Fatal error:  Call to a member function result() on a non-object in /home/u9562915/public_html/cmh/application/models/M_Master_nilaidetilpengeluaran.php on line 30
+[20-Feb-2017 13:14:47 Asia/Jakarta] PHP Fatal error:  Call to a member function result() on a non-object in /home/u9562915/public_html/cmh/application/models/M_Master_nilaidetilpengeluaran.php on line 109
+[20-Feb-2017 15:24:08 Asia/Jakarta] PHP Fatal error:  Call to a member function result() on a non-object in /home/u9562915/public_html/cmh/application/models/M_Master_nilaidetilpengeluaran.php on line 109
+[20-Feb-2017 15:24:30 Asia/Jakarta] PHP Fatal error:  Call to a member function result() on a non-object in /home/u9562915/public_html/cmh/application/models/M_Master_nilaidetilpengeluaran.php on line 30
+[20-Feb-2017 15:24:42 Asia/Jakarta] PHP Fatal error:  Call to a member function result() on a non-object in /home/u9562915/public_html/cmh/application/models/M_Master_nilaidetilpengeluaran.php on line 30
+[20-Feb-2017 15:24:50 Asia/Jakarta] PHP Fatal error:  Call to a member function result() on a non-object in /home/u9562915/public_html/cmh/application/models/M_Master_nilaidetilpengeluaran.php on line 30
+[20-Feb-2017 15:25:01 Asia/Jakarta] PHP Fatal error:  Call to a member function result() on a non-object in /home/u9562915/public_html/cmh/application/models/M_Master_nilaidetilpengeluaran.php on line 30
+[20-Feb-2017 15:26:21 Asia/Jakarta] PHP Fatal error:  Call to a member function result() on a non-object in /home/u9562915/public_html/cmh/application/models/M_Master_nilaidetilpengeluaran.php on line 109
+[20-Feb-2017 15:26:47 Asia/Jakarta] PHP Fatal error:  Call to a member function result() on a non-object in /home/u9562915/public_html/cmh/application/models/M_Master_nilaidetilpengeluaran.php on line 30
+[20-Feb-2017 15:31:11 Asia/Jakarta] PHP Fatal error:  Call to a member function result() on a non-object in /home/u9562915/public_html/cmh/application/models/M_Master_nilaidetilpengeluaran.php on line 109
+[20-Feb-2017 16:11:22 Asia/Jakarta] PHP Fatal error:  Call to a member function result() on a non-object in /home/u9562915/public_html/cmh/application/models/M_Master_nilaidetilpengeluaran.php on line 122
+[20-Feb-2017 16:14:02 Asia/Jakarta] PHP Fatal error:  Call to a member function result() on a non-object in /home/u9562915/public_html/cmh/application/models/M_Master_grouppengeluaran.php on line 14
+[21-Feb-2017 14:33:33 Asia/Jakarta] PHP Fatal error:  Call to a member function result() on a non-object in /home/u9562915/public_html/cmh/application/models/M_Home.php on line 18
+[22-Feb-2017 08:54:50 Asia/Jakarta] PHP Fatal error:  Call to a member function result() on a non-object in /home/u9562915/public_html/cmh/application/models/M_Master_nilaidetilpengeluaran.php on line 30
+[22-Feb-2017 08:55:02 Asia/Jakarta] PHP Fatal error:  Call to a member function result() on a non-object in /home/u9562915/public_html/cmh/application/models/M_Master_nilaigrouppengeluaran.php on line 45
+[22-Feb-2017 13:13:09 Asia/Jakarta] PHP Fatal error:  Call to a member function result() on a non-object in /home/u9562915/public_html/cmh/application/models/M_Master_nilaidetilpengeluaran.php on line 30
+[22-Feb-2017 13:19:48 Asia/Jakarta] PHP Fatal error:  Call to a member function result() on a non-object in /home/u9562915/public_html/cmh/application/models/M_Master_nilaidetilpengeluaran.php on line 30
+[22-Feb-2017 15:09:52 Asia/Jakarta] PHP Fatal error:  Call to a member function result() on a non-object in /home/u9562915/public_html/cmh/application/models/M_Master_nilaidetilpengeluaran.php on line 30
+[23-Feb-2017 14:28:13 Asia/Jakarta] PHP Fatal error:  Call to a member function real_escape_string() on a non-object in /home/u9562915/public_html/cmh/system/database/drivers/mysqli/mysqli_driver.php on line 391
+[14-Mar-2017 14:51:33 Asia/Jakarta] PHP Fatal error:  Call to a member function result() on a non-object in /home/u9562915/public_html/cmh/application/models/M_Approval1_penerimaan.php on line 37
+[15-Mar-2017 13:16:05 Asia/Jakarta] PHP Fatal error:  Call to a member function result() on a non-object in /home/u9562915/public_html/cmh/application/models/M_Home.php on line 18
+[15-Mar-2017 13:16:05 Asia/Jakarta] PHP Fatal error:  Call to a member function result() on a non-object in /home/u9562915/public_html/cmh/application/models/M_Home.php on line 18
+[15-Mar-2017 14:25:47 Asia/Jakarta] PHP Fatal error:  Call to a member function result() on a non-object in /home/u9562915/public_html/cmh/application/models/M_Trans_kas.php on line 20
+[15-Mar-2017 14:25:51 Asia/Jakarta] PHP Fatal error:  Call to a member function result() on a non-object in /home/u9562915/public_html/cmh/application/models/M_Trans_kas.php on line 20
+[15-Mar-2017 14:25:58 Asia/Jakarta] PHP Fatal error:  Call to a member function result() on a non-object in /home/u9562915/public_html/cmh/application/models/M_Trans_kas.php on line 20
+[17-Mar-2017 15:09:15 Asia/Jakarta] PHP Fatal error:  Call to a member function result() on a non-object in /home/u9562915/public_html/cmh/application/core/MY_Model.php on line 64
+[22-Mar-2017 11:25:24 Asia/Jakarta] PHP Fatal error:  Call to a member function result() on a non-object in /home/u9562915/public_html/cmh/application/models/M_Master_grouppengeluaran.php on line 14
+[22-Mar-2017 11:25:24 Asia/Jakarta] PHP Fatal error:  Call to a member function result() on a non-object in /home/u9562915/public_html/cmh/application/models/M_Master_nilaidetilpengeluaran.php on line 29
+[22-Mar-2017 11:25:50 Asia/Jakarta] PHP Fatal error:  Call to a member function result() on a non-object in /home/u9562915/public_html/cmh/application/models/M_Master_grouppengeluaran.php on line 14
+[22-Mar-2017 11:26:14 Asia/Jakarta] PHP Fatal error:  Call to a member function result() on a non-object in /home/u9562915/public_html/cmh/application/models/M_Master_grouppengeluaran.php on line 14
+[22-Mar-2017 11:26:23 Asia/Jakarta] PHP Fatal error:  Call to a member function result() on a non-object in /home/u9562915/public_html/cmh/application/models/M_Master_grouppengeluaran.php on line 14
+[22-Mar-2017 14:05:30 Asia/Jakarta] PHP Fatal error:  Call to a member function result() on a non-object in /home/u9562915/public_html/cmh/application/models/M_Master_nilaidetilpengeluaran.php on line 29
+[22-Mar-2017 15:19:21 Asia/Jakarta] PHP Fatal error:  Call to a member function result() on a non-object in /home/u9562915/public_html/cmh/application/models/M_Master_nilaidetilpengeluaran.php on line 29
+[28-Mar-2017 17:59:05 UTC] PHP Parse error:  syntax error, unexpected '',' (T_CONSTANT_ENCAPSED_STRING), expecting ')' in /home/u9562915/public_html/cmh/application/config/database.php on line 80
+[29-Mar-2017 01:00:35 Asia/Jakarta] PHP Fatal error:  Call to a member function result() on a non-object in /home/u9562915/public_html/cmh/application/models/M_Approval1_penerimaan.php on line 37
+[31-Mar-2017 08:25:05 Asia/Jakarta] PHP Fatal error:  Call to a member function result() on a non-object in /home/u9562915/public_html/cmh/application/models/M_Home.php on line 18
+[31-Mar-2017 13:08:39 Asia/Jakarta] PHP Fatal error:  Call to a member function result() on a non-object in /home/u9562915/public_html/cmh/application/models/M_Approval1_penerimaan.php on line 37
+[25-Apr-2017 14:44:18 Asia/Jakarta] PHP Fatal error:  Call to undefined function Dompdf\mb_internal_encoding() in /home/mitramedicare/public_html/keu/application/libraries/dompdf/src/Dompdf.php on line 282
+[25-Apr-2017 15:32:52 Asia/Jakarta] PHP Fatal error:  Call to undefined function Dompdf\mb_internal_encoding() in /home/mitramedicare/public_html/keu/application/libraries/dompdf/src/Dompdf.php on line 282
+[25-Apr-2017 15:33:05 Asia/Jakarta] PHP Fatal error:  Call to undefined function Dompdf\mb_internal_encoding() in /home/mitramedicare/public_html/keu/application/libraries/dompdf/src/Dompdf.php on line 282
+[26-Apr-2017 09:44:28 Asia/Jakarta] PHP Fatal error:  Call to a member function result() on boolean in /home/mitramedicare/public_html/keu/application/models/M_Rpt_kaskeluar.php on line 64
+[26-Apr-2017 09:44:34 Asia/Jakarta] PHP Fatal error:  Call to a member function result() on boolean in /home/mitramedicare/public_html/keu/application/models/M_Rpt_kaskeluar.php on line 64
+[27-Apr-2017 11:03:29 Asia/Jakarta] PHP Fatal error:  Call to undefined function Dompdf\mb_internal_encoding() in /home/mitramedicare/public_html/keu/application/libraries/dompdf/src/Dompdf.php on line 282
+[27-Apr-2017 13:09:45 Asia/Jakarta] PHP Fatal error:  Call to a member function result() on boolean in /home/mitramedicare/public_html/keu/application/models/M_Rpt_kaskeluar.php on line 48
+[27-Apr-2017 13:10:36 Asia/Jakarta] PHP Fatal error:  Call to a member function result() on boolean in /home/mitramedicare/public_html/keu/application/models/M_Rpt_kaskeluar.php on line 48
+[27-Apr-2017 14:11:18 Asia/Jakarta] PHP Fatal error:  Call to a member function result() on boolean in /home/mitramedicare/public_html/keu/application/models/M_Home.php on line 18
+[27-Apr-2017 14:33:39 Asia/Jakarta] PHP Fatal error:  Call to undefined function Dompdf\mb_internal_encoding() in /home/mitramedicare/public_html/keu/application/libraries/dompdf/src/Dompdf.php on line 282
+[27-Apr-2017 14:38:17 Asia/Jakarta] PHP Fatal error:  Call to undefined function Dompdf\mb_internal_encoding() in /home/mitramedicare/public_html/keu/application/libraries/dompdf/src/Dompdf.php on line 282
+[27-Apr-2017 14:44:35 Asia/Jakarta] PHP Fatal error:  Call to undefined function Dompdf\mb_internal_encoding() in /home/mitramedicare/public_html/keu/application/libraries/dompdf/src/Dompdf.php on line 282
+[28-Apr-2017 09:59:17 Asia/Jakarta] PHP Fatal error:  Call to a member function result() on boolean in /home/mitramedicare/public_html/keu/application/models/M_Home.php on line 18
+[28-Apr-2017 09:59:29 Asia/Jakarta] PHP Fatal error:  Call to a member function result() on boolean in /home/mitramedicare/public_html/keu/application/models/M_Home.php on line 18
+[28-Apr-2017 09:59:41 Asia/Jakarta] PHP Fatal error:  Call to a member function result() on boolean in /home/mitramedicare/public_html/keu/application/models/M_Home.php on line 18
+[03-May-2017 12:09:52 Asia/Jakarta] PHP Fatal error:  Call to undefined method M_Rpt_kaskeluar::getAllDataApprovedUser() in /home/mitramedicare/public_html/keu/application/controllers/Rpt_kaskeluar.php on line 96
+[03-May-2017 12:10:11 Asia/Jakarta] PHP Fatal error:  Call to undefined method M_Rpt_kaskeluar::getAllDataApprovedUser() in /home/mitramedicare/public_html/keu/application/controllers/Rpt_kaskeluar.php on line 96
+[03-May-2017 12:10:19 Asia/Jakarta] PHP Fatal error:  Call to undefined method M_Rpt_kaskeluar::getAllDataApprovedUser() in /home/mitramedicare/public_html/keu/application/controllers/Rpt_kaskeluar.php on line 96
+[03-May-2017 12:10:21 Asia/Jakarta] PHP Fatal error:  Call to undefined method M_Rpt_kaskeluar::getAllDataApprovedUser() in /home/mitramedicare/public_html/keu/application/controllers/Rpt_kaskeluar.php on line 96
+[03-May-2017 12:10:21 Asia/Jakarta] PHP Fatal error:  Call to undefined method M_Rpt_kaskeluar::getAllDataApprovedUser() in /home/mitramedicare/public_html/keu/application/controllers/Rpt_kaskeluar.php on line 96
+[03-May-2017 12:10:22 Asia/Jakarta] PHP Fatal error:  Call to undefined method M_Rpt_kaskeluar::getAllDataApprovedUser() in /home/mitramedicare/public_html/keu/application/controllers/Rpt_kaskeluar.php on line 96
+[03-May-2017 14:27:54 Asia/Jakarta] PHP Fatal error:  Call to undefined method M_Rpt_kaskeluar::getAllDataPengajuanRealized() in /home/mitramedicare/public_html/keu/application/controllers/Rpt_kaskeluar.php on line 44
+[03-May-2017 14:28:03 Asia/Jakarta] PHP Fatal error:  Call to undefined method M_Rpt_kaskeluar::getAllDataPengajuanRealized() in /home/mitramedicare/public_html/keu/application/controllers/Rpt_kaskeluar.php on line 44
+[03-May-2017 15:03:06 Asia/Jakarta] PHP Fatal error:  Call to undefined method M_Rpt_kaskeluar::getAllDataPengajuanRealized() in /home/mitramedicare/public_html/keu/application/controllers/Rpt_kaskeluar.php on line 44
+[05-May-2017 14:42:34 Asia/Jakarta] PHP Fatal error:  Call to undefined method M_Rpt_kaskeluar::getAllDataPengajuanRealized() in /home/mitramedicare/public_html/keu/application/controllers/Rpt_kaskeluar.php on line 44
+[05-May-2017 14:42:43 Asia/Jakarta] PHP Fatal error:  Call to undefined method M_Rpt_kaskeluar::getAllDataPengajuanRealized() in /home/mitramedicare/public_html/keu/application/controllers/Rpt_kaskeluar.php on line 44
+[05-May-2017 17:13:29 Asia/Jakarta] PHP Fatal error:  Call to undefined method M_Rpt_kaskeluar::getAllDataPengajuanRealized() in /home/mitramedicare/public_html/keu/application/controllers/Rpt_kaskeluar.php on line 44
+[06-May-2017 10:55:43 Asia/Jakarta] PHP Fatal error:  Call to undefined method M_Rpt_kaskeluar::getAllDataPengajuanRealized() in /home/mitramedicare/public_html/keu/application/controllers/Rpt_kaskeluar.php on line 44
+[06-May-2017 10:55:50 Asia/Jakarta] PHP Fatal error:  Call to undefined method M_Rpt_kaskeluar::getAllDataPengajuanRealized() in /home/mitramedicare/public_html/keu/application/controllers/Rpt_kaskeluar.php on line 44
+[06-May-2017 10:55:58 Asia/Jakarta] PHP Fatal error:  Call to undefined method M_Rpt_kaskeluar::getAllDataPengajuanRealized() in /home/mitramedicare/public_html/keu/application/controllers/Rpt_kaskeluar.php on line 44
+[06-May-2017 10:56:04 Asia/Jakarta] PHP Fatal error:  Call to undefined method M_Rpt_kaskeluar::getAllDataPengajuanRealized() in /home/mitramedicare/public_html/keu/application/controllers/Rpt_kaskeluar.php on line 44
+[08-May-2017 09:41:24 Asia/Jakarta] PHP Fatal error:  Call to undefined method M_Rpt_kaskeluar::getAllDataPengajuanRealized() in /home/mitramedicare/public_html/keu/application/controllers/Rpt_kaskeluar.php on line 44
+[09-May-2017 09:30:55 Asia/Jakarta] PHP Fatal error:  Call to undefined function Dompdf\mb_internal_encoding() in /home/mitramedicare/public_html/keu/application/libraries/dompdf/src/Dompdf.php on line 282
+[09-May-2017 09:32:17 Asia/Jakarta] PHP Fatal error:  Call to undefined function Dompdf\mb_internal_encoding() in /home/mitramedicare/public_html/keu/application/libraries/dompdf/src/Dompdf.php on line 282
+[09-May-2017 10:19:04 Asia/Jakarta] PHP Fatal error:  Call to undefined function Dompdf\mb_internal_encoding() in /home/mitramedicare/public_html/keu/application/libraries/dompdf/src/Dompdf.php on line 282
+[09-May-2017 10:28:05 Asia/Jakarta] PHP Fatal error:  Call to undefined function Dompdf\mb_internal_encoding() in /home/mitramedicare/public_html/keu/application/libraries/dompdf/src/Dompdf.php on line 282
+[09-May-2017 10:30:14 Asia/Jakarta] PHP Fatal error:  Call to undefined function Dompdf\mb_internal_encoding() in /home/mitramedicare/public_html/keu/application/libraries/dompdf/src/Dompdf.php on line 282
+[09-May-2017 10:46:23 Asia/Jakarta] PHP Fatal error:  Call to undefined function Dompdf\mb_internal_encoding() in /home/mitramedicare/public_html/keu/application/libraries/dompdf/src/Dompdf.php on line 282
+[09-May-2017 10:50:47 Asia/Jakarta] PHP Fatal error:  Call to undefined function Dompdf\mb_internal_encoding() in /home/mitramedicare/public_html/keu/application/libraries/dompdf/src/Dompdf.php on line 282
+[10-May-2017 10:20:01 Asia/Jakarta] PHP Fatal error:  Call to undefined function Dompdf\mb_internal_encoding() in /home/mitramedicare/public_html/keu/application/libraries/dompdf/src/Dompdf.php on line 282
+[10-May-2017 13:22:51 Asia/Jakarta] PHP Fatal error:  Call to undefined function Dompdf\mb_internal_encoding() in /home/mitramedicare/public_html/keu/application/libraries/dompdf/src/Dompdf.php on line 282
+[10-May-2017 13:35:18 Asia/Jakarta] PHP Fatal error:  Call to undefined function Dompdf\mb_internal_encoding() in /home/mitramedicare/public_html/keu/application/libraries/dompdf/src/Dompdf.php on line 282
+[16-Jun-2017 02:47:44 Etc/UTC] PHP Warning:  stream_socket_enable_crypto(): SSL operation failed with code 1. OpenSSL Error messages:
+error:14090086:SSL routines:SSL3_GET_SERVER_CERTIFICATE:certificate verify failed in /home/mitramedicare/public_html/keu/assets/PHPMailer/class.smtp.php on line 354
+[16-Jun-2017 02:49:05 Etc/UTC] PHP Warning:  stream_socket_enable_crypto(): SSL operation failed with code 1. OpenSSL Error messages:
+error:14090086:SSL routines:SSL3_GET_SERVER_CERTIFICATE:certificate verify failed in /home/mitramedicare/public_html/keu/assets/PHPMailer/class.smtp.php on line 354
+[16-Jun-2017 03:51:53 Etc/UTC] PHP Warning:  stream_socket_enable_crypto(): SSL operation failed with code 1. OpenSSL Error messages:
+error:14090086:SSL routines:SSL3_GET_SERVER_CERTIFICATE:certificate verify failed in /home/mitramedicare/public_html/keu/assets/PHPMailer/class.smtp.php on line 354
+[16-Jun-2017 03:51:56 Etc/UTC] PHP Warning:  stream_socket_enable_crypto(): SSL operation failed with code 1. OpenSSL Error messages:
+error:14090086:SSL routines:SSL3_GET_SERVER_CERTIFICATE:certificate verify failed in /home/mitramedicare/public_html/keu/assets/PHPMailer/class.smtp.php on line 354
+[16-Jun-2017 03:51:57 Etc/UTC] PHP Warning:  stream_socket_enable_crypto(): SSL operation failed with code 1. OpenSSL Error messages:
+error:14090086:SSL routines:SSL3_GET_SERVER_CERTIFICATE:certificate verify failed in /home/mitramedicare/public_html/keu/assets/PHPMailer/class.smtp.php on line 354
+[16-Jun-2017 03:51:58 Etc/UTC] PHP Warning:  stream_socket_enable_crypto(): SSL operation failed with code 1. OpenSSL Error messages:
+error:14090086:SSL routines:SSL3_GET_SERVER_CERTIFICATE:certificate verify failed in /home/mitramedicare/public_html/keu/assets/PHPMailer/class.smtp.php on line 354
+[16-Jun-2017 03:51:59 Etc/UTC] PHP Warning:  stream_socket_enable_crypto(): SSL operation failed with code 1. OpenSSL Error messages:
+error:14090086:SSL routines:SSL3_GET_SERVER_CERTIFICATE:certificate verify failed in /home/mitramedicare/public_html/keu/assets/PHPMailer/class.smtp.php on line 354
+[16-Jun-2017 03:52:00 Etc/UTC] PHP Warning:  stream_socket_enable_crypto(): SSL operation failed with code 1. OpenSSL Error messages:
+error:14090086:SSL routines:SSL3_GET_SERVER_CERTIFICATE:certificate verify failed in /home/mitramedicare/public_html/keu/assets/PHPMailer/class.smtp.php on line 354
+[16-Jun-2017 04:10:54 Etc/UTC] PHP Warning:  stream_socket_enable_crypto(): SSL operation failed with code 1. OpenSSL Error messages:
+error:14090086:SSL routines:SSL3_GET_SERVER_CERTIFICATE:certificate verify failed in /home/mitramedicare/public_html/keu/assets/PHPMailer/class.smtp.php on line 354
+[16-Jun-2017 06:46:39 Etc/UTC] PHP Fatal error:  require(): Failed opening required '../../assets/PHPMailer/PHPMailerAutoload.php' (include_path='.:/opt/cpanel/ea-php70/root/usr/share/pear') in /home/mitramedicare/public_html/keu/application/views/sendmail.php on line 10
+[16-Jun-2017 06:47:40 Etc/UTC] PHP Fatal error:  require(): Failed opening required 'https://mitramedicare.com/keu//assets/PHPMailer/PHPMailerAutoload.php' (include_path='.:/opt/cpanel/ea-php70/root/usr/share/pear') in /home/mitramedicare/public_html/keu/application/views/sendmail.php on line 10
+[16-Jun-2017 06:47:55 Etc/UTC] PHP Fatal error:  require(): Failed opening required 'https://mitramedicare.com/keu/assets/PHPMailer/PHPMailerAutoload.php' (include_path='.:/opt/cpanel/ea-php70/root/usr/share/pear') in /home/mitramedicare/public_html/keu/application/views/sendmail.php on line 10
+[16-Jun-2017 08:56:13 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function mysql_fetch_array() in /home/mitramedicare/public_html/keu/sendmail.php:31
+Stack trace:
+#0 {main}
+  thrown in /home/mitramedicare/public_html/keu/sendmail.php on line 31
+[16-Jun-2017 09:12:41 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function mysql_fetch_assoc() in /home/mitramedicare/public_html/keu/sendmail.php:28
+Stack trace:
+#0 {main}
+  thrown in /home/mitramedicare/public_html/keu/sendmail.php on line 28
+[16-Jun-2017 09:14:05 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function mysql_fetch_assoc() in /home/mitramedicare/public_html/keu/sendmail.php:28
+Stack trace:
+#0 {main}
+  thrown in /home/mitramedicare/public_html/keu/sendmail.php on line 28
+[16-Jun-2017 09:16:10 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function mysql_fetch_assoc() in /home/mitramedicare/public_html/keu/sendmail.php:28
+Stack trace:
+#0 {main}
+  thrown in /home/mitramedicare/public_html/keu/sendmail.php on line 28
+[17-Jun-2017 02:19:26 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function mysql_fetch_assoc() in /home/mitramedicare/public_html/keu/sendmail.php:29
+Stack trace:
+#0 {main}
+  thrown in /home/mitramedicare/public_html/keu/sendmail.php on line 29
+[17-Jun-2017 02:21:31 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function mysql_fetch_assoc() in /home/mitramedicare/public_html/keu/sendmail.php:29
+Stack trace:
+#0 {main}
+  thrown in /home/mitramedicare/public_html/keu/sendmail.php on line 29
+[17-Jun-2017 02:21:34 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function mysql_fetch_assoc() in /home/mitramedicare/public_html/keu/sendmail.php:29
+Stack trace:
+#0 {main}
+  thrown in /home/mitramedicare/public_html/keu/sendmail.php on line 29
+[17-Jun-2017 02:22:06 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function mysql_fetch_assoc() in /home/mitramedicare/public_html/keu/sendmail.php:30
+Stack trace:
+#0 {main}
+  thrown in /home/mitramedicare/public_html/keu/sendmail.php on line 30
+[17-Jun-2017 02:23:08 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function mysql_fetch_assoc() in /home/mitramedicare/public_html/keu/sendmail.php:30
+Stack trace:
+#0 {main}
+  thrown in /home/mitramedicare/public_html/keu/sendmail.php on line 30
+[17-Jun-2017 02:24:31 Etc/UTC] PHP Warning:  trim() expects parameter 1 to be string, array given in /home/mitramedicare/public_html/keu/assets/PHPMailer/class.phpmailer.php on line 861
+[17-Jun-2017 02:24:31 Etc/UTC] PHP Fatal error:  Cannot redeclare PHPMailerAutoload() (previously declared in /home/mitramedicare/public_html/keu/assets/PHPMailer/PHPMailerAutoload.php:24) in /home/mitramedicare/public_html/keu/assets/PHPMailer/PHPMailerAutoload.php on line 31
+[17-Jun-2017 03:23:53 UTC] PHP Parse error:  syntax error, unexpected ':' in /home/mitramedicare/public_html/keu/sendmail.php on line 34
+[17-Jun-2017 03:23:55 UTC] PHP Parse error:  syntax error, unexpected ':' in /home/mitramedicare/public_html/keu/sendmail.php on line 34
+[17-Jun-2017 03:41:14 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function mysql_fetch_assoc() in /home/mitramedicare/public_html/keu/sendmail.php:31
+Stack trace:
+#0 {main}
+  thrown in /home/mitramedicare/public_html/keu/sendmail.php on line 31
+[17-Jun-2017 03:41:38 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function mysql_fetch_assoc() in /home/mitramedicare/public_html/keu/sendmail.php:31
+Stack trace:
+#0 {main}
+  thrown in /home/mitramedicare/public_html/keu/sendmail.php on line 31
+[17-Jun-2017 03:42:09 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function mysql_fetch_assoc() in /home/mitramedicare/public_html/keu/sendmail.php:31
+Stack trace:
+#0 {main}
+  thrown in /home/mitramedicare/public_html/keu/sendmail.php on line 31
+[17-Jun-2017 03:42:38 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function mysql_fetch_assoc() in /home/mitramedicare/public_html/keu/sendmail.php:31
+Stack trace:
+#0 {main}
+  thrown in /home/mitramedicare/public_html/keu/sendmail.php on line 31
+[17-Jun-2017 03:43:17 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function mysql_fetch_assoc() in /home/mitramedicare/public_html/keu/sendmail.php:31
+Stack trace:
+#0 {main}
+  thrown in /home/mitramedicare/public_html/keu/sendmail.php on line 31
+[17-Jun-2017 03:43:28 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function mysql_fetch_assoc() in /home/mitramedicare/public_html/keu/sendmail.php:31
+Stack trace:
+#0 {main}
+  thrown in /home/mitramedicare/public_html/keu/sendmail.php on line 31
+[17-Jun-2017 03:46:29 UTC] PHP Fatal error:  Uncaught Error: Call to a member function ClearAddresses() on null in /home/mitramedicare/public_html/keu/sendmail.php:33
+Stack trace:
+#0 {main}
+  thrown in /home/mitramedicare/public_html/keu/sendmail.php on line 33
+[17-Jun-2017 03:46:31 UTC] PHP Fatal error:  Uncaught Error: Call to a member function ClearAddresses() on null in /home/mitramedicare/public_html/keu/sendmail.php:33
+Stack trace:
+#0 {main}
+  thrown in /home/mitramedicare/public_html/keu/sendmail.php on line 33
+[17-Jun-2017 03:47:03 UTC] PHP Fatal error:  Uncaught Error: Call to a member function ClearAddresses() on null in /home/mitramedicare/public_html/keu/sendmail.php:33
+Stack trace:
+#0 {main}
+  thrown in /home/mitramedicare/public_html/keu/sendmail.php on line 33
+[17-Jun-2017 03:47:04 UTC] PHP Fatal error:  Uncaught Error: Call to a member function ClearAddresses() on null in /home/mitramedicare/public_html/keu/sendmail.php:33
+Stack trace:
+#0 {main}
+  thrown in /home/mitramedicare/public_html/keu/sendmail.php on line 33
+[17-Jun-2017 03:48:12 Etc/UTC] PHP Fatal error:  Cannot redeclare PHPMailerAutoload() (previously declared in /home/mitramedicare/public_html/keu/assets/PHPMailer/PHPMailerAutoload.php:24) in /home/mitramedicare/public_html/keu/assets/PHPMailer/PHPMailerAutoload.php on line 31
+[17-Jun-2017 03:48:55 Etc/UTC] PHP Fatal error:  Uncaught Error: Call to a member function AddAddress() on null in /home/mitramedicare/public_html/keu/sendmail.php:80
+Stack trace:
+#0 {main}
+  thrown in /home/mitramedicare/public_html/keu/sendmail.php on line 80
+[17-Jun-2017 03:49:31 Etc/UTC] PHP Fatal error:  Uncaught Error: Call to a member function AddAddress() on null in /home/mitramedicare/public_html/keu/sendmail.php:80
+Stack trace:
+#0 {main}
+  thrown in /home/mitramedicare/public_html/keu/sendmail.php on line 80
+[17-Jun-2017 03:49:49 Etc/UTC] PHP Fatal error:  Cannot redeclare PHPMailerAutoload() (previously declared in /home/mitramedicare/public_html/keu/assets/PHPMailer/PHPMailerAutoload.php:24) in /home/mitramedicare/public_html/keu/assets/PHPMailer/PHPMailerAutoload.php on line 31
+[17-Jun-2017 03:55:39 Etc/UTC] PHP Fatal error:  Uncaught Error: Call to a member function AddAddress() on null in /home/mitramedicare/public_html/keu/sendmail.php:80
+Stack trace:
+#0 {main}
+  thrown in /home/mitramedicare/public_html/keu/sendmail.php on line 80
+[17-Jun-2017 03:56:20 Etc/UTC] PHP Fatal error:  Cannot redeclare PHPMailerAutoload() (previously declared in /home/mitramedicare/public_html/keu/assets/PHPMailer/PHPMailerAutoload.php:24) in /home/mitramedicare/public_html/keu/assets/PHPMailer/PHPMailerAutoload.php on line 31
+[17-Jun-2017 03:57:23 UTC] PHP Fatal error:  Uncaught Error: Call to a member function ClearAddresses() on null in /home/mitramedicare/public_html/keu/sendmail.php:33
+Stack trace:
+#0 {main}
+  thrown in /home/mitramedicare/public_html/keu/sendmail.php on line 33
+[17-Jun-2017 03:58:41 UTC] PHP Fatal error:  Uncaught Error: Call to a member function ClearAddresses() on null in /home/mitramedicare/public_html/keu/sendmail.php:33
+Stack trace:
+#0 {main}
+  thrown in /home/mitramedicare/public_html/keu/sendmail.php on line 33
+[17-Jun-2017 04:01:56 Etc/UTC] PHP Fatal error:  Cannot redeclare PHPMailerAutoload() (previously declared in /home/mitramedicare/public_html/keu/assets/PHPMailer/PHPMailerAutoload.php:24) in /home/mitramedicare/public_html/keu/assets/PHPMailer/PHPMailerAutoload.php on line 31
+[17-Jun-2017 04:04:08 Etc/UTC] PHP Fatal error:  Cannot redeclare PHPMailerAutoload() (previously declared in /home/mitramedicare/public_html/keu/assets/PHPMailer/PHPMailerAutoload.php:24) in /home/mitramedicare/public_html/keu/assets/PHPMailer/PHPMailerAutoload.php on line 31
+[17-Jun-2017 04:20:19 Etc/UTC] PHP Fatal error:  Cannot redeclare PHPMailerAutoload() (previously declared in /home/mitramedicare/public_html/keu/assets/PHPMailer/PHPMailerAutoload.php:24) in /home/mitramedicare/public_html/keu/assets/PHPMailer/PHPMailerAutoload.php on line 31
+[17-Jun-2017 04:31:26 Etc/UTC] PHP Fatal error:  Cannot redeclare PHPMailerAutoload() (previously declared in /home/mitramedicare/public_html/keu/assets/PHPMailer/PHPMailerAutoload.php:24) in /home/mitramedicare/public_html/keu/assets/PHPMailer/PHPMailerAutoload.php on line 31
+[17-Jun-2017 04:32:53 Etc/UTC] PHP Fatal error:  Cannot redeclare PHPMailerAutoload() (previously declared in /home/mitramedicare/public_html/keu/assets/PHPMailer/PHPMailerAutoload.php:24) in /home/mitramedicare/public_html/keu/assets/PHPMailer/PHPMailerAutoload.php on line 31
+[17-Jun-2017 04:38:05 Etc/UTC] PHP Fatal error:  Cannot redeclare PHPMailerAutoload() (previously declared in /home/mitramedicare/public_html/keu/assets/PHPMailer/PHPMailerAutoload.php:24) in /home/mitramedicare/public_html/keu/assets/PHPMailer/PHPMailerAutoload.php on line 31
+[19-Jun-2017 06:13:14 Etc/UTC] PHP Fatal error:  Cannot redeclare PHPMailerAutoload() (previously declared in /home/mitramedicare/public_html/keu/assets/PHPMailer/PHPMailerAutoload.php:24) in /home/mitramedicare/public_html/keu/assets/PHPMailer/PHPMailerAutoload.php on line 31
+[21-Jun-2017 06:15:31 Etc/UTC] PHP Fatal error:  Cannot redeclare PHPMailerAutoload() (previously declared in /home/mitramedicare/public_html/keu/assets/PHPMailer/PHPMailerAutoload.php:24) in /home/mitramedicare/public_html/keu/assets/PHPMailer/PHPMailerAutoload.php on line 31
+[21-Jun-2017 06:17:48 UTC] PHP Fatal error:  Cannot use [] for reading in /home/mitramedicare/public_html/keu/sendmail.php on line 91
+[21-Jun-2017 06:17:50 UTC] PHP Fatal error:  Cannot use [] for reading in /home/mitramedicare/public_html/keu/sendmail.php on line 91
+[07-Jul-2017 03:00:34 Etc/UTC] PHP Fatal error:  Cannot redeclare PHPMailerAutoload() (previously declared in /home/mitramedicare/public_html/keu/assets/PHPMailer/PHPMailerAutoload.php:24) in /home/mitramedicare/public_html/keu/assets/PHPMailer/PHPMailerAutoload.php on line 31
+[07-Jul-2017 03:01:14 Etc/UTC] PHP Fatal error:  Cannot redeclare PHPMailerAutoload() (previously declared in /home/mitramedicare/public_html/keu/assets/PHPMailer/PHPMailerAutoload.php:24) in /home/mitramedicare/public_html/keu/assets/PHPMailer/PHPMailerAutoload.php on line 31
+[07-Jul-2017 03:01:34 Etc/UTC] PHP Fatal error:  Cannot redeclare PHPMailerAutoload() (previously declared in /home/mitramedicare/public_html/keu/assets/PHPMailer/PHPMailerAutoload.php:24) in /home/mitramedicare/public_html/keu/assets/PHPMailer/PHPMailerAutoload.php on line 31
+[07-Jul-2017 03:04:35 Etc/UTC] PHP Fatal error:  Cannot redeclare PHPMailerAutoload() (previously declared in /home/mitramedicare/public_html/keu/assets/PHPMailer/PHPMailerAutoload.php:24) in /home/mitramedicare/public_html/keu/assets/PHPMailer/PHPMailerAutoload.php on line 31
+[07-Jul-2017 03:05:27 Etc/UTC] PHP Fatal error:  Cannot redeclare PHPMailerAutoload() (previously declared in /home/mitramedicare/public_html/keu/assets/PHPMailer/PHPMailerAutoload.php:24) in /home/mitramedicare/public_html/keu/assets/PHPMailer/PHPMailerAutoload.php on line 31
+[07-Jul-2017 03:06:59 Etc/UTC] PHP Fatal error:  Cannot redeclare PHPMailerAutoload() (previously declared in /home/mitramedicare/public_html/keu/assets/PHPMailer/PHPMailerAutoload.php:24) in /home/mitramedicare/public_html/keu/assets/PHPMailer/PHPMailerAutoload.php on line 31

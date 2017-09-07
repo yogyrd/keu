@@ -1,0 +1,85 @@
+* {
+    font-family: Tahoma,Verdana,Arial, sans-serif;
+}
+
+.clearfix {
+	clear:both;
+}
+
+#container {
+    padding-bottom: 65px;
+}
+
+#container .content {
+    margin-top:52px;
+}
+
+.row {
+    margin-left:0;
+    margin-right: 0;
+}
+
+a {
+    text-decoration:none;
+    cursor:pointer;
+}
+
+a:hover {
+    text-decoration:none;
+}
+
+#top_nav {
+    position:fixed;
+    top:0;
+    left:0;
+    right:0;
+    z-index:999;
+}
+.modal-backdrop {
+    z-index: 9999;
+}
+
+.modal {
+    z-index:99999;
+}
+
+.bootstrap-datetimepicker-widget {
+    display:block;
+    z-index:9999;
+}
+
+.dt_date input[readonly],
+.dt_date_time input[readonly],
+.dt_time input[readonly]{
+    background-color:#fff;
+}
+
+.ui-autocomplete-loading {
+    background: white url("../images/ac_spinner.gif") right center no-repeat !important;
+    background-size: 25px 25px !important;
+}
+
+.ui-autocomplete-input {
+    background: white url("../images/search.png") right center no-repeat;
+    background-size: 25px 25px;
+    padding-right: 28px;
+}
+
+.film_pilihan .film_poster img {
+    width:150px;
+}
+
+.ellipsis {
+    white-space: nowrap;
+    text-overflow: ellipsis;
+    overflow: hidden;
+}
+
+.context_buttons {
+    position: fixed;
+    bottom: 0;
+    background: silver;
+    width: 100%;
+    left: 0;
+    padding: 10px;
+}

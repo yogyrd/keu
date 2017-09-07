@@ -1,0 +1,60 @@
+body {
+    font-family: "Trebuchet MS", sans-serif;
+    font-size: 12px;
+}
+.header {
+    top: 0px;
+    width: 100%;
+}
+.perusahaan {
+    font-size: large;
+    text-decoration: underline;
+}
+.judul {
+    text-align: center;
+    font-size: x-large;
+}
+.judul-detail {
+    text-align: center;
+    font-size: medium;
+}
+.tabel-header, tr, td {
+    border: none;
+    font-size: small;
+}
+.tabel-content {
+    top:150px;
+    font-size: xx-small;
+    width:100%;
+}
+.tabel-content{
+    border-collapse: collapse;
+}
+.tabel-content > tbody > tr > td{
+    border-top: 1px solid black;
+    border-bottom: 1px solid black;
+    border-collapse: collapse;
+}
+.tabel-content > tbody > tr:nth-child(even){
+    background-color: #f2f2f2
+}
+.tabel-content > tbody > tr > td, tfoot > tr > th  {
+    padding: 5px;
+}
+.tabel-content > tfoot > tr > th {
+    border-top: solid ;
+}
+.footer {
+    margin-top: 10%;
+    width:100%;
+}
+.footer > .ttd {
+    width: 100%;
+    text-align: center;
+}
+.info-print {
+    font-style: italic;
+}
+.footer > .ttd > tbody > tr > td {
+    padding-bottom: 40px;
+}

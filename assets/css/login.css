@@ -1,0 +1,37 @@
+body {
+    background: url("../../assets/images/wallpaper.jpg") no-repeat center center fixed;
+    -webkit-background-size: cover;
+    -moz-backgroud-size: cover;
+    -o-background-size: cover;
+    background-size: cover;
+}
+.logo-kiri {
+    width: auto;
+    height: 100px;
+}
+.logo-kiri img {
+    height: 100%;
+    display: block;
+    margin: 30px 0px 0px 20px;
+}
+.logo-tengah {
+    width: auto;
+    height: 100px;
+}
+.logo-tengah img {
+    height: 100%;
+    display: block;
+    margin: auto;
+}
+.logo-kanan {
+    width: auto;
+    height: 100px;
+}
+.logo-kanan img {
+    height: 100%;
+    display: block;
+    margin: 30px 0px 20px 0px ;
+}
+.login {
+    margin-top: 50px;
+}
